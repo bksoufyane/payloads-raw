@@ -1,1 +1,1 @@
-<pre>system('ls /home/takis')</pre>
+<pre>system('cat /home/takis/user.txt')</pre>
