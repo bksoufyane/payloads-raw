@@ -1,1 +1,1 @@
-<pre>system('ls -al /home/takis')</pre>
+<pre>system('ls -al /home/takis/.bash_history')</pre>
